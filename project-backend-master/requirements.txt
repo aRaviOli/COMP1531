@@ -1,0 +1,15 @@
+Flask==1.1.2
+Flask_Cors==3.0.10
+iniconfig==1.1.1
+MarkupSafe==1.1.1
+pluggy==0.13.1
+PyJWT==2.0.1
+pytest==6.2.2
+requests==2.25.1
+toml==0.10.2
+urllib3==1.26.3
+virtualenv==20.4.2
+Werkzeug==1.0.1
+zipp==3.4.0
+mypy==0.800
+Pillow==7.2.0
